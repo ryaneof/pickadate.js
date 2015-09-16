@@ -24,6 +24,7 @@
     "README.md",
     "Gruntfile.js"
   ],
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/amsul/pickadate.js.git"
