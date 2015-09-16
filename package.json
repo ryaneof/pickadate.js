@@ -22,7 +22,8 @@
     "lib",
     "tests",
     "README.md",
-    "Gruntfile.js"
+    "Gruntfile.js",
+    "index.js"
   ],
   "main": "index.js",
   "repository": {
